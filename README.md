@@ -1,2 +1,46 @@
-# SHARC-Tank-
-Designed a segmented lab network architecture at NASA supporting multiple computer interfaces for secure multi-endpoint access. Configured static IP addressing on Linux-based NVIDIA Jetson systems and developed an Ethernet command framework for hardware communication.
+# NASA Cybersecurity Internship Project
+
+## Overview
+This repository documents my cybersecurity internship project at NASA.  
+The project focused on Linux systems, Software Engineering, and defensive security concepts in a real-world enterprise environment.
+
+> ⚠️ This repository contains **presentation material and a walkthrough video only**. 
+
+## Project Highlights
+- Worked in a Linux-based environment supporting secure system operations
+- Applied cybersecurity best practices in a regulated, high-security organization
+- Gained hands-on experience in enterprise IT and software engineering environments
+
+---
+
+## Technologies & Skills
+- Linux System Administration
+- Cybersecurity Fundamentals
+- Python
+- Documentation & Technical Communication
+
+---
+
+## Project Presentation
+📂 **Slides:**  
+`/presentation/NASA_Cybersecurity_Internship_Presentation.pdf`
+
+---
+
+## Project Walkthrough Video
+🎥 **Video Overview:**  
+(Replace this if hosted externally)
+`/video/project_overview.mp4`
+
+
+---
+
+## About Me
+**Robert Ruiz**  
+Cybersecurity New Grad | Defensive Security | Cloud & AI Security  
+📍 New York  
+
+
+
+
+
