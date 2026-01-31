@@ -18,21 +18,6 @@ The project focused on Linux systems, Software Engineering, and defensive securi
 - Cybersecurity Fundamentals
 - Python
 - Documentation & Technical Communication
-
----
-
-## Project Presentation
-📂 **Slides:**  
-`/presentation/NASA_Cybersecurity_Internship_Presentation.pdf`
-
----
-
-## Project Walkthrough Video
-🎥 **Video Overview:**  
-(Replace this if hosted externally)
-`/video/project_overview.mp4`
-
-
 ---
 
 ## About Me
